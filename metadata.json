@@ -1,0 +1,5 @@
+{
+  "name": "Simple Product Catalog",
+  "description": "A basic storefront where an admin can manage products and users can browse them.",
+  "requestFramePermissions": []
+}
